@@ -1,0 +1,1 @@
+python3 decode_txt.py step_1 > step_1.txt

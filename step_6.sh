@@ -1,0 +1,1 @@
+python3 decode_binary.py > step_6.txt

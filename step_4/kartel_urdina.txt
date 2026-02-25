@@ -1,0 +1,2 @@
+Zifrarako hiztegia: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ/: ,.
+Zifrarako klabea: \int_{0}^{\sqrt[3]{9)) x^2 \, dx = 3
